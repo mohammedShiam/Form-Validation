@@ -12,7 +12,11 @@ body{
     
     
 }
-
+body > h1 {
+	text-align: center;
+	font-size: 45px;
+	margin-top: 2rem;
+}
 form {
 	max-width: 500px;
 	height: auto;
@@ -23,7 +27,14 @@ form {
 	background: #fff;
 	color: #333;
 }
-
+form div > h2 {
+	text-align: center;
+	margin-top: 2.3rem;
+	margin-bottom: 1.5rem;
+	font-size: 30px;
+	font-weight: 500;
+	color: #0b6aff;
+}
 .section{
     padding-bottom:5%;
     width: 90%;
