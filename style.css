@@ -15,14 +15,15 @@ body{
 body > h1 {
 	text-align: center;
 	font-size: 45px;
-	margin-top: 2rem;
+	font-weight: 500;
+	margin-top: 3rem;
 }
 form {
 	max-width: 500px;
 	height: auto;
 	padding: 2% 2%;
 	margin: auto;
-	margin-top: 5rem;
+	margin-top: 2rem;
 	box-shadow: 1px 1px 5px #494949;
 	background: #fff;
 	color: #333;
